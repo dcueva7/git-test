@@ -3,4 +3,8 @@ Los Angeles
 India
 China
 San Francisco
+Tokyo
+Auckland
+Austin 
+New York
 
